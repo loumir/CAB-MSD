@@ -1,3 +1,7 @@
+This branch is stopped after renaming and evolving CAB-MSB in MANGO . 
+no developement forseen any longer. 
+mir
+
 # doc-template
 document template
 
