@@ -1,5 +1,5 @@
-This branch is stopped after renaming and evolving CAB-MSB in MANGO . 
-no developement forseen any longer. 
+This was the previous CAB-MSB project. This has been stopped after renaming and evolving CAB-MSB in MANGO . 
+no developement forseen any longer on this project. 
 mir
 
 # doc-template
